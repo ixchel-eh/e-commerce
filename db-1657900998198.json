@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    },
+    {
+      "email": "ixchel.eh12@gmail.com",
+      "password": "$2a$10$ZGTLjfUrY00/llUGlL9CgerSlYrH0wMasUhRgfSC.IxazYaz/hgEq",
+      "id": "122"
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "Tenis",
+      "stock": 15,
+      "price": 200,
+      "Img": "https://cdn-icons-png.flaticon.com/512/1785/1785340.png",
+      "shortDesc": "Blancos y comodos",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "Bolsa",
+      "stock": 10,
+      "Img": "https://cdn-icons-png.flaticon.com/512/4318/4318635.png",
+      "price": 299.99,
+      "shortDesc": "Collar pequeño brillante.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "Collar",
+      "stock": 12,
+      "img": "https://cdn-icons-png.flaticon.com/512/1037/1037060.png",
+      "price": 150.23,
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "Playera",
+      "img": "https://cdn-icons-png.flaticon.com/512/5257/5257674.png",
+      "stock": 12,
+      "price": 123.99,
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "nvv1fahucm9l52l23c8",
+      "name": "Blush",
+      "price": "200",
+      "img": "https://cdn-icons-png.flaticon.com/512/545/545159.png",
+      "stock": "5",
+      "shortDesc": "backpakc for school",
+      "description": "backpack children for school"
+    },
+    {
+      "id": "jojcn2zawmnl538d49i",
+      "name": "Espejo",
+      "price": "255",
+      "img": "https://cdn-icons-png.flaticon.com/512/545/545159.png",
+      "stock": "236",
+      "shortDesc": "Talla chica",
+      "description": "Portable"
+    }
+  ]
+}
