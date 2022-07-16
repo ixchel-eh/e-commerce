@@ -19,6 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "back-bd":"./node_modules/.bin/json-server-auth ./backend/db.json --port 3001",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",

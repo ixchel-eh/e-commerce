@@ -14,6 +14,11 @@
       "email": "ixchel.eh12@gmail.com",
       "password": "$2a$10$ZGTLjfUrY00/llUGlL9CgerSlYrH0wMasUhRgfSC.IxazYaz/hgEq",
       "id": "122"
+    },
+    {
+      "email": "adn@amco.mx",
+      "password": "$2a$10$alCqBcioXETMyf8vR9TnD.GJSOnZvphPJP1ExYZUJCZMI4Xvq8aRa",
+      "id": "1456"
     }
   ],
   "products": [
@@ -31,7 +36,7 @@
       "name": "Bolsa",
       "stock": 10,
       "Img": "https://cdn-icons-png.flaticon.com/512/4318/4318635.png",
-      "price": 10.00,
+      "price": 10,
       "shortDesc": "Ecologica, hecha para compras de supermercado.",
       "description": "Bolsa grande"
     },
@@ -70,6 +75,22 @@
       "stock": "236",
       "shortDesc": "Talla chica",
       "description": "Portable"
+    },
+    {
+      "id": "2q5kxu2v4hsl5mpqith",
+      "name": "prueba",
+      "price": "2000",
+      "stock": "12",
+      "shortDesc": "Girl",
+      "description": "Pruebita"
+    },
+    {
+      "id": "xeons1ykywl5mpt96k",
+      "name": "Laptop prueba 2",
+      "price": "20000",
+      "stock": "10",
+      "shortDesc": "Laptop mini",
+      "description": "4 RAM"
     }
   ]
 }
